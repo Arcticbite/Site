@@ -10,7 +10,12 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
 }
-
+.aboutme {
+  max-width: 928px;
+  margin: 0 auto ;
+  padding: 0 16px;
+  line-height: 18px;
+}
 .container {
   max-width: 928px;
   margin: 0 auto ;
